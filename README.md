@@ -26,7 +26,7 @@ The project aims to develop a brand-new distributed system for dental clinic boo
 | Anna Törngren | Developer | Software Development |
 
 ## Project repositories
-To implement the distributed nature of *Dens Cura*, the system has been developed in the following five repositories in GitLab:
+To implement the distributed nature of *Dens Cura*, the system has been developed in the following six repositories in GitLab:
 - [Booking Backend](https://github.com/PatyMarklund/DIT355-Distributed-System-Booking-Backend?tab=readme-ov-file)
 - [Clinic backend](https://github.com/PatyMarklund/DIT355-Distributed-System-Clinic-Backend?tab=readme-ov-file)
 - [Frontend](https://github.com/PatyMarklund/DIT355-Distributed-System-Frontend)
